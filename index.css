@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+  /* CSS styles for the play button */
+  #play-button {
+    padding: 10px 20px;
+    background-color: #2196F3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
